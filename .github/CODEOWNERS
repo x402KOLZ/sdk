@@ -1,0 +1,14 @@
+# Default owners
+* @maintainer-1 @maintainer-2
+
+# API implementations
+/src/api/ @api-team
+
+# Type definitions
+/src/types.ts @types-team
+
+# Tests
+/tests/ @qa-team
+
+# Documentation
+/docs/ /README.md @docs-team
